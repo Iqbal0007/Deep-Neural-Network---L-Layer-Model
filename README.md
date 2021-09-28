@@ -1,1 +1,1 @@
-# Deep-Neural-Network---L-Layer-Model
+The code contains a Deep Neural Network with L Layer Model. It's a neural network model which has been created from the scratch including initializing parameters, L model forward, computing cost, L model backward and updating parameters.
